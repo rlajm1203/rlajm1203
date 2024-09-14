@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 
   #### 🚩이력
-  <div align="center">
+  <div align="left">
 
     - 3군단 103정보통신단 사이버방호실 정보보호병 복무 -
     - 2023 AI융합 문제발굴 산학연계 해커톤 동상 -
