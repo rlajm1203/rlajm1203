@@ -34,6 +34,8 @@
     - ECONOVATION RERE PROJECT -
     - ECONOVATION EEOS PROJECT -
     - ECONOVATION Recruit Flatform PROJECT -
+    - ECONOVATION Whoz-in PROJECT -
+    - Agriculture Bigdata Analysis System PROJECT -
     
   </div>
   
