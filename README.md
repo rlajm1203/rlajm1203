@@ -1,7 +1,7 @@
 ## 김종민 - Kim Jong Min
 <div align="center">
   
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlajm1203&theme=dark&show_icons=true)
   
   ![header](https://capsule-render.vercel.app/api?type=slice&text=Welcome&color=gradient&fontAlign=80&rotate=5&fontAlignY=30&fontSize=50&fontColor=ffffff)
 
