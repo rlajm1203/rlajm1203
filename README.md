@@ -33,7 +33,7 @@
     - 2023 AI융합 문제발굴 산학연계 해커톤 동상 -
     - ECONOVATION RERE BE -
     - ECONOVATION EEOS BE -
-    - ECONOVATION Recruit Flatform BE -
+    - ECONOVATION Econo-Recruit BE -
     - ECONOVATION Whoz-in BE -
     - Agriculture Bigdata Analysis System BE -
     
