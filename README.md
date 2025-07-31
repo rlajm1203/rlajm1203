@@ -1,3 +1,7 @@
+## Links
+- [프로필 페이지](https://rlajm1203.github.io/profile)
+- [블로그](https://velog.io/@rlajm1203/posts)
+
 ## 이력
 - 전남대학교 소프트웨어공학과 졸업 예정 (Software Engineering)
 - 3군단 103정보통신단 사이버방호실 정보보호병 복무
