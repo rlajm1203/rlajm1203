@@ -9,7 +9,7 @@
 - [효율적인 암기를 위한 학습 서비스 (Backend)](https://github.com/JNU-econovation/ReRe)
 - [동아리 행사 관리 서비스 (Backend)](https://github.com/JNU-econovation/EEOS-BE)
 - [동아리 신입회원 모집 플랫폼 (Backend)](https://github.com/JNU-econovation/econo-recruit)
-- [농업 빅데이터 분석 웹 서비스 (Backend)]()
+- 농업 빅데이터 분석 웹 서비스 (Backend) 🔒
 - [동아리 재실 인원 파악 서비스 (Backend)](https://github.com/JNU-econovation/Whoz-in-BE)
 
 ## About Me
