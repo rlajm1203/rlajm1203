@@ -1,14 +1,19 @@
-## 이력
-    - 전남대학교 소프트웨어공학과 졸업 예정 (Software Engineering)
-    - 3군단 103정보통신단 사이버방호실 정보보호병 복무
-    - 2023 AI융합 문제발굴 산학연계 해커톤 동상
-    - 2025 전남대학교 프로그래밍 경진대회 장려상
-    - ㅇㅇ를 위한 암기 학습 서비스(RERE Back-end)
-    - 동아리 행사 관리 서비스 (EEOS Back-end)
-    - ECONOVATION Econo-Recruit BE -
-    - Agriculture Bigdata Analysis System BE -
-    - ECONOVATION Whoz-in BE -
+
     
+## 이력
+- 전남대학교 소프트웨어공학과 졸업 예정 (Software Engineering)
+- 3군단 103정보통신단 사이버방호실 정보보호병 복무
+- 2023 AI융합 문제발굴 산학연계 해커톤 동상
+- 2025 전남대학교 프로그래밍 경진대회 장려상
+
+
+## 프로젝트
+- 효율적인 암기를 위한 학습 서비스(RERE Back-end)
+- 동아리 행사 관리 서비스 (EEOS Back-end)
+- 동아리 신입회원 모집 플랫폼 (Econo-Recruit Back-end)
+- 농업 빅데이터 분석 웹 서비스 (ABAS Back-end)
+- 동아리 재실 인원 파악 서비스 (Whoz-in Back-end)
+
 
 <!-- <div align="center">
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
