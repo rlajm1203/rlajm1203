@@ -1,5 +1,3 @@
-
-    
 ## 이력
 - 전남대학교 소프트웨어공학과 졸업 예정 (Software Engineering)
 - 3군단 103정보통신단 사이버방호실 정보보호병 복무
@@ -15,7 +13,8 @@
 - 동아리 재실 인원 파악 서비스 (Whoz-in Back-end)
 
 
-<!-- <div align="center">
+<div align="left">
+<br>
  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -24,4 +23,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
   
-</div> -->
+</div>
