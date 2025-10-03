@@ -14,7 +14,6 @@
 - [동아리 재실 인원 파악 서비스 (Backend)](https://github.com/JNU-econovation/Whoz-in-BE)
 
 ## About Me
-- [프로필](https://rlajm1203.github.io/profile)
 - [블로그](https://velog.io/@rlajm1203/posts)
 
 <div align="left">
