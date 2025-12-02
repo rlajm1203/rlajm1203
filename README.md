@@ -12,7 +12,7 @@
 - [동아리 신입회원 모집 플랫폼 (Backend)](https://github.com/JNU-econovation/econo-recruit)
 - 농업 빅데이터 분석 웹 서비스 (Backend) 🔒
 - [동아리 재실 인원 파악 서비스 (Backend)](https://github.com/JNU-econovation/Whoz-in-BE)
-- 우리 FISA Final Project
+- [우리 FISA Final Project](https://github.com/fisa-5th-csd-final)
   - [Core Banking Server (계정계)](https://github.com/fisa-5th-csd-final/Core-Banking-Server)
   - [Loan Mate Backend (정보계)](https://github.com/fisa-5th-csd-final/Loan-Mate-Backend)
   - [Loan Mate Frontend (채널계)](https://github.com/fisa-5th-csd-final/Loan-Mate-Frontend)
